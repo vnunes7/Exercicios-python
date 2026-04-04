@@ -74,6 +74,8 @@ Este repositório será constantemente atualizado com novos exercícios e desafi
 ---
 
 ## 🔗 Conecte-se comigo
-
-[LinkedIn](https://www.linkedin.com/in/nepomucenovictor/)
+<div>
+<a href="https://www.linkedin.com/in/nepomucenovictor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+</div>  
 
