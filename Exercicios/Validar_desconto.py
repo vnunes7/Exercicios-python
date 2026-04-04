@@ -27,6 +27,7 @@ qtd_pessoas = int(input('Informe a quantidade de pessoas: '))
 
 valor_desconto = 0
 
+# Validando categoria digitada e quantidade de pessoas
 if categoria == 1:
     if qtd_pessoas == 2:
         valor_desconto = valor_bruto * 0.03
@@ -51,6 +52,7 @@ elif categoria == 3:
 else:
     print('Categoria invalida!')
 
+# Realizando calculo de valor liquido e valor médio
 valor_liquido = valor_bruto - valor_desconto
 valor_medio = valor_bruto / qtd_pessoas
 
