@@ -56,4 +56,4 @@ else:
 valor_liquido = valor_bruto - valor_desconto
 valor_medio = valor_bruto / qtd_pessoas
 
-print(f'\nO valor da bruto da viagem é R${valor_bruto:.2f}, houve um desconto de R${valor_desconto:.2f}.\nApós o desconto o valor liquido é de R${valor_liquido:.2f}. e o preço medio por vianjante é R${valor_medio:.2f}.')
+print(f'\nO valor da bruto da viagem é R${valor_bruto:.2f}, o desconto foi de R${valor_desconto:.2f}.\nApós o desconto o valor liquido é de R${valor_liquido:.2f}. e o preço medio por vianjante é R${valor_medio:.2f}.')
